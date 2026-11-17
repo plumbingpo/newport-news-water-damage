@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationnewportnews.com/sitemap.xml
